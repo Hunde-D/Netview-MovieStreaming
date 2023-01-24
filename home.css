@@ -52,3 +52,36 @@ div{
     color: white;
 
 }
+.con{
+    margin: 30px 40px 90px 50%;
+    width:100%;
+    background-color: black;
+    display: flex;
+    float: right;
+    justify-content: space-between;
+}
+#foot_logo{
+    width: 99px;
+    height: 45px;
+    float: left;
+    margin-top:15px;
+    margin-right: 30px;
+}
+.footer_logo{
+    margin-left:20px;
+    vertical-align: middle;
+    color: #b9b9b9;
+}
+.con p{
+    color: white;
+    font-weight: bold;
+
+}
+.con p a{
+    color:white;
+    text-decoration: none;
+
+}
+.con p a:hover{
+    color: red;
+}
